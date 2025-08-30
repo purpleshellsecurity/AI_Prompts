@@ -1,3 +1,5 @@
+# Bicep Learning Prompt
+
 Using the Pareto principle, identify the 20% of Azure Bicep concepts that provide 80% of the knowledge needed to deploy production-ready infrastructure. 
 
 Focus on: 
