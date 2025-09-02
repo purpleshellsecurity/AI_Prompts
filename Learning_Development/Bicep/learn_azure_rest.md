@@ -1,13 +1,12 @@
-# Powershell Learning Prompt
+# Azure Rest API Learning Prompt
 
-Using the Pareto principle, identify the 20% of Azure Bicep concepts that provide 80% of the knowledge needed to deploy production-ready infrastructure. 
+Using the Pareto principle, identify the 20% of Azure REST API concepts that provide 80% of the knowledge needed to deploy production-ready infrastructure. 
 
 Focus on: 
 * Core patterns to master first, in logical learning order 
 * Most common beginner mistakes and how to avoid them 
 * Include practical code examples for each concept
 * Ensure that it includes the necessary concepts to teach someone how to deploy infrastructure as well as proper debugging.
-* Use examples that are compatible with Powershell Version 7
 
 Output Format: 
 * Progressive learning structure where each topic builds on the previous 
